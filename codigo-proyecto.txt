@@ -1,0 +1,109 @@
+<HTML>
+<HEAD>
+<TITLE>KANYE WEST</TITLE>
+<HEAD>
+<BODY BGCOLOR="#F92305">
+<bgsound src="musicafondo.wav" loop="10"></bgsound>
+<TABLE BGCOLOR="#05F995" BORDER="2" CELLPADDING="3" CELLSPACING="10" BORDERCOLOR="BLACK">
+
+<CAPTION ALING="TOP"> <img src="kanye-west-kanye.gif" width="80" height="120" align="left"><FONT 
+COLOR="#FFFFFF" SIZE = "5" FACE="Arial Rounded MT Bold "> <b> THIS IS KANYE WEST
+<br> :) </b></FONT> <img src="foto-ye.jpg" width="90" height="90" align="right"><img
+src="ye-cantando.jpg" width="90" height="90" align="right"></CAPTION><br></br>
+
+<tr align="center"> <td> <a href="https://youtu.be/VRJiK-kdDb4?si=aRZm1YcQXdJmh9cS"> <img src="boton-ye.png"
+width="90" height="40"></a> </td>
+<td><a href="https://youtu.be/BBAtAM7vtgc?si=uTz4wr2k-QlUYFjE"> <img src="boton-ye.png" width="80" height="40"> </a> 
+</td>
+<td><a href="https://youtu.be/ZAz3rnLGthg?si=dKpZs5uVsTbxy9Zz"> <img src="boton-ye.png" width="80" height="40">
+</a> </td>
+<td><a href="https://youtu.be/tJKNcI6jC6A?si=hyGIraZkvJ7nS383" target="_blank"><img src="boton-ye.png" width="80" 
+height="40"></a></td>
+<td><a href="https://youtu.be/GQEcxrY0CWA?si=o-DaolLKAgh-5Vxe" target="_blank"><img src="boton-ye.png" width="80" 
+height="40"> </a></td></tr>
+<tr> <th BGCOLOR="white" Colspan="2"> <FONT COLOR="BLACK" SIZE="4" FACE="Arial Narrow" > <b>
+Ye (Kanye West) </b></FONT> </th>
+<td width="8%"> </td>
+<th BGCOLOR="white"> <FONT COLOR="PURPLE" SIZE="4" FACE="Arial Narrow" > <b> Hell of Life </b></FONT> </th>
+<th BGCOLOR="white"> <FONT COLOR="PURPLE" SIZE="4" FACE="Arial Narrow" > <b> Vultures </b>
+</FONT></th></tr>
+
+<tr> <td align="center" ><img src="bio-ye.jpg" align="center" width="150" height="250"></td>
+<td width="43%" > <FONT COLOR="white" SIZE="2" FACE="Arial Narrow" > 
+La transformación de Kanye West desde su papel como productor musical hasta 
+su ascenso como uno de los nombres más influyentes en la industria del rap. A pesar de su 
+éxito en la producción, West anhelaba establecerse como rapero en solitario. Después de enfrentar
+numerosos rechazos, finalmente encontró una oportunidad con Roc-A-Fella Records, donde lanzó 
+su álbum debut, "The College Dropout", en 2004. Este álbum fue un punto de inflexión en el rap, 
+desafiando las convenciones del género al incorporar sampleos de soul y letras que exploraban temas 
+como la familia, la educación y la espiritualidad. Su lanzamiento no solo lo consagró como un artista 
+innovador, sino que también tuvo un impacto significativo en la cultura popular, influyendo en la moda
+y el discurso social. En resumen, la historia de Kanye West es un testimonio de perseverancia, creatividad
+y la capacidad de desafiar las normas establecidas para alcanzar el éxito. </FONT> </td>
+<td width="8%"> <embed src="musicaincrustada.wav" width="80" height="50" autoplay="true" loop="5"> <img
+src="nota-mus.gif" align="left" width="50" height="50"> </embed></td>
+</td>
+<td align="center"><a href="https://youtu.be/0Tdpq3FRGhY?si=KvQO8mqBJiGz7XpF" target="_blank"><img
+src="collage-ye.jpg" width="200" height="200"></a></td>
+<td align="center"><a href="https://youtu.be/ufN8MxyMlEQ?si=yFmyiCRk3jkizO4k" target="_blank"> <img src="collage-ye.jpg" 
+width="200" height="200"> </a> </td> </tr>
+
+
+<tr> <td align="center" > <img src="albums-ye.jpg" width="250" height="250"></td>
+<td width="43%" > <FONT COLOR="white" SIZE="2" FACE="Arial Narrow"> "The College Dropout" (2004): Este álbum debut de Kanye West marcó un hito en la música rap. Con sampleos de soul, letras ingeniosas y una variedad de temas que abordan la vida, la familia y la fe, "The College Dropout" recibió elogios de la crítica y se convirtió en un éxito comercial.
+"Late Registration" (2005): El segundo álbum de West continuó con el éxito de su debut. Con colaboraciones de artistas como Jay-Z y Jamie Foxx, este álbum amplió los horizontes musicales de West e incluyó éxitos como "Gold Digger" y "Touch the Sky".
+"Graduation" (2007): Este álbum mostró una evolución en el sonido de Kanye West, con influencias de la música electrónica y el pop. Con canciones como "Stronger" y "Good Life", "Graduation" se convirtió en otro éxito crítico y comercial.
+"My Beautiful Dark Twisted Fantasy" (2010): Considerado por muchos como su obra maestra, este álbum es una exploración audaz de la fama, la fortuna y los demonios personales de West. Con una producción lujosa y colaboraciones de alto perfil, como las de Jay-Z y Nicki Minaj, este álbum es aclamado por su innovación y profundidad lírica.
+"Yeezus" (2013): Con un enfoque más experimental y minimalista, "Yeezus" desafió las convenciones del rap contemporáneo. Con letras provocativas y una producción vanguardista, este álbum mostró otra faceta de la creatividad de West.
+"The Life of Pablo" (2016): Este álbum refleja la tumultuosa vida y carrera de Kanye West. Con una producción diversa y colaboraciones de una amplia gama de artistas, "The Life of Pablo" es un viaje musical que captura la complejidad y la genialidad de West.</FONT> </td>
+<td width="10%">
+<td align="center"> <a href="https://youtu.be/EMnQwBTJnMM?si=_qEyn3xcZLYAR0_b"_blank"> <img src="runaway-ye.jpg" width="200"
+height="200"> </a> </td>
+<td align="center"><a href="https://youtu.be/Lq2TmRzg19k?si=UGoxEtSyb9RWJ1QU" target="_blank"> <img src="life-pablo.jpg"
+width="200" height="200"> </a></td>
+</tr>
+
+
+<tr> <td align="center"> <img src="Kanye-Grammys.png" align="center" width="200" height="200"></td> 
+<td width="43%"> <FONT COLOR="white" SIZE="2" FACE="Arial Narrow"> Premios Grammy: Kanye West ha ganado
+un total de 24 premios Grammy a lo largo de su carrera, convirtiéndolo en uno de los artistas más premiados en la historia
+de los premios Grammy. Ha ganado premios en diversas categorías, incluyendo Álbum del Año, Mejor Álbum de Rap y Mejor Interpretación de Rap.
+MTV Video Music Awards (VMAs): West ha recibido múltiples premios MTV VMAs, incluyendo el premio al Mejor Video del Año por 
+"Single Ladies (Put a Ring on It)" de Beyoncé, que él produjo. También ha ganado premios por sus propios videos musicales y actuaciones en vivo.
+Premios BET: Kanye West ha sido galardonado en varias ocasiones en los Premios BET, que celebran la excelencia en la música, 
+la actuación y la cultura afroamericana. Ha ganado premios como Mejor Artista de Hip-Hop y Video del Año.
+Billboard Music Awards: West ha recibido múltiples premios Billboard Music Awards a lo largo de su carrera, incluyendo premios por sus álbumes y sencillos más exitosos.</FONT></td>
+<td width="8%"><img src="osito-ye.jpg" align="center" width="200" height="200"></td>
+
+<td align="center"><a href="https://youtu.be/G8u3P7Xqlvo?si=n5kwlR5DmrFCc1KC" target="_blank"> <img src="jesus-king.png"
+width="200" height="200"> </td>
+<td align="center">
+<img src="donda-ye.jpg" width="200" height="200"> </a> </td> </tr>
+
+<tr> <td align="center"><img src="top-10.jpg" align="center" width="250" height="300"></td>
+<td width="43%" > <FONT COLOR="white" SIZE="2" FACE="Arial Narrow"> "Jesus Walks": Este tema es reconocido por su mensaje espiritual y su producción épica. Kanye habla sobre su lucha entre la fe y el mundo secular.
+"Stronger": Una canción electrónica y de hip-hop que muestra la confianza y el poder de superación personal.
+"Gold Digger": Un éxito masivo que critica la ambición materialista y las relaciones basadas en intereses económicos.
+"Heartless": Una balada sobre el desamor y la decepción en las relaciones románticas.
+"Runaway": Una pieza introspectiva donde Kanye reflexiona sobre sus defectos y relaciones fallidas.
+"Power": Una canción que celebra el éxito y la influencia de Kanye, al tiempo que reflexiona sobre el precio de la fama.
+"All of the Lights": Un himno que destaca los altibajos de la vida, desde la fama hasta la lucha personal.
+"Black Skinhead": Una pista agresiva que aborda temas de identidad racial y la experiencia negra en Estados Unidos.
+"Ultralight Beam": Una canción espiritual y emotiva que destaca la fe y la redención.
+"Famous": Conocida por sus polémicas letras, esta canción incluye referencias a la fama, la notoriedad y las relaciones públicas de Kanye. </FONT> </td>
+
+<td width="8%"> <img src="oh-ye.gif" width="150" height="150"><FONT COLOR="PINK" SIZE="3" 
+FACE="Arial" align="center"><a href="https://youtu.be/8fbyfDbi-MI?si=Vij6zVs3TJ-sN3_I" > Sorpresa!!! 
+</FONT> </a> </td>
+
+<td align="center"> <a href="https://youtu.be/pEskP0ulPlA?si=44CecQafD3WgEpy7" target="_blank"> <img src="vultures-ye.jpg"
+width="200" height="200"> </a> </td>
+<td align="center"> <img src="coraxon-ye.jpg" width="200" height="200"> </td> </tr>
+
+</TABLE>
+</BODY>
+</HTML>
+
+
+
+
